@@ -5,7 +5,7 @@ Some practical part following [The Rust Programming Language book](https://doc.r
 It has 3 projects:
 
 - [x] Guessing Game
-- [ ] minigrep command line program
+- [x] minigrep command line program
 - [ ] Multithreaded Web Server
 
 Covers the topics:
@@ -18,4 +18,7 @@ Covers the topics:
 - [x] Packages, Crates, and Modules
 - [x] Vectors, Strings, Hash Maps
 - [x] Error handling
+- [x] Tests
+- [x] Lifetimes
+- [x] Iterators
 - [ ] ... 
